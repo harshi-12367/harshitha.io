@@ -61,12 +61,12 @@ body{
     background-color: var(--color-dark-mode);
     overflow-x: hidden;
     cursor: none;
-    cursor: url('C:\Users\harsh\Downloads\cursorr.png');
-    cursor: url('C:\Users\harsh\Downloads\cursorr.png');
-    cursor: url('C:\Users\harsh\Downloads\cursorr.png');
-    cursor: url('C:\Users\harsh\Downloads\cursorr.png'),
+    cursor: url('src/cursorr.png');
+    cursor: url('src/cursorr.png');
+    cursor: url('src/cursorr.png');
+    cursor: url('src/cursorr.png'),
     move;
-    cursor: url('C:\Users\harsh\Downloads\cursorr.png')10 12;
+    cursor: url('src/cursorr.png')10 12;
 }
 
 
@@ -96,12 +96,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    cursor: url('C:\Users\harsh\Downloads\click.png');
-    cursor: url('C:\Users\harsh\Downloads\click.png'),
-    url('C:\Users\harsh\Downloads\click.png');
-    cursor: url('C:\Users\harsh\Downloads\click.png'),
+    cursor: url('src/click.png');
+    cursor: url('src/click.png'),
+    url('src/click.png');
+    cursor: url('src/click.png'),
     move;
-        cursor: url('C:\Users\harsh\Downloads\click.png')10 12;
+        cursor: url('src/click.png')10 12;
         padding: 0px 20px;
         background-image: url(src/svg/settings-svgrepo-com.svg);
         background-size: 60%;
@@ -157,12 +157,12 @@ body{
     background-size:50%;
     background-repeat: no-repeat;
     background-position: center;
-    cursor: url("C:\Users\harsh\Downloads\click.png");
-    cursor: url('C:\Users\harsh\Downloads\click.png'),
-    url('C:\Users\harsh\Downloads\click.png');
-    cursor: url('C:\Users\harsh\Downloads\click.png'),
+    cursor: url('src/click.png');
+    cursor: url('src/click.png'),
+    url('src/click.png');
+    cursor: url('src/click.png'),
     move;
-        cursor: url('C:\Users\harsh\Downloads\click.png')10 12;
+        cursor: url('src/click.png')10 12;
     transition-duration: .5s;
 }
 
